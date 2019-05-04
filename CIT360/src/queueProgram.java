@@ -18,7 +18,7 @@ public class queueProgram {
 		for (int i=0; i<5; i++)
 			numberQueue.add(i);
 		
-		//Displays the vaules of the queue
+		//Displays the vales of the queue
 		
 		System.out.println("Values of the queue " + numberQueue);
 		

@@ -14,11 +14,11 @@ public class treeProgram {
 		alphabet.add("E");
 		alphabet.add("F");
 		
-		//retrieves set values as presented 
+		//will retrieve set values as presented 
 		
 		System.out.println("Original set " + alphabet);
 		
-		//retrieves values in the set before C
+		//will retrieve values in the set before C
 		
 		System.out.println("Head Set "+ alphabet.headSet("D"));
 		

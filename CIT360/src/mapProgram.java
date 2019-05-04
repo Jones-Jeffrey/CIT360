@@ -15,7 +15,8 @@ public class mapProgram {
 		myMap.put(6, "Six");
 		myMap.put(8, "Eight");
 		
-		//displays entire contents of the map
+		//will display entire contents of the map
+		
 		System.out.println(myMap);
 		
 		//Accesses a value from the map based on it's key pair using get()

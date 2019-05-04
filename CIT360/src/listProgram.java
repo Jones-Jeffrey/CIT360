@@ -17,7 +17,8 @@ public class listProgram {
 		avengers.add("Scarlet Witch");
 		avengers.add("Black Widow");
 		
-		//the get() method accesses single elements of the ArrayList, retrieves them by the index number
+		/*the get() method accesses single elements of the ArrayList, 
+		retrieves them by the index number*/
 		
 		System.out.println(avengers.get(0));
 		System.out.println(avengers.get(3));

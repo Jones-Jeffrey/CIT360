@@ -16,7 +16,7 @@ public class setProgram {
 		justiceLeague.add("Aquaman");
 		justiceLeague.add("Wonder Woman");
 		
-		//duplicate values will not be added to the set
+		//duplicate values won't be added to the set
 		
 		justiceLeague.add("Batman");
 		justiceLeague.add("Aquaman");
