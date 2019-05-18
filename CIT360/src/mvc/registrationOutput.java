@@ -1,3 +1,6 @@
+/*basic structure for this program was 
+taken from here: https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm*/
+
 package mvc;
 
 /* the output program is what I'm using in place of an actual application for a user to 
