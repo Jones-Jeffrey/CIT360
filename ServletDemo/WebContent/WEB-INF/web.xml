@@ -10,11 +10,11 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <servlet-name>HttpServletDemo</servlet-name>
-    <servlet-class>NewServletDemo</servlet-class>
+    <servlet-name>NameForm</servlet-name>
+    <servlet-class>NameForm</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>HttpServletDemo</servlet-name>
-    <url-pattern>/welcome</url-pattern>
+    <servlet-name>NameForm</servlet-name>
+    <url-pattern>/NameForm</url-pattern>
   </servlet-mapping>
 </web-app>
