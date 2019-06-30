@@ -17,7 +17,7 @@ public class NameForm extends HttpServlet {
 		
 		response.setContentType("text/html");
 		
-		//this writes the form content to the webpage
+		//this writes the form content to display on the web page
 		
 		PrintWriter out = response.getWriter();
 		String title = "Name Form";

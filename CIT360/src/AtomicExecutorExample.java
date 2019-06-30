@@ -2,7 +2,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-	/*creates executor class and simultaneously creates the threads with the 
+	/*creates the executor class and simultaneously creates the threads with the 
 	 *FixedThreadPool*/ 
 
 	public class AtomicExecutorExample {
